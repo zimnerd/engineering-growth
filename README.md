@@ -1,79 +1,89 @@
 # Engineering Growth
 
-**An evidence-driven software engineering development journey.**
+**Continuous professional development through practical engineering, independent assessment and documented technical decisions.**
 
-I'm a software engineer with approximately 15 years of professional experience, primarily building enterprise web, mobile and backend applications.
+I'm a software engineer with approximately 15 years of professional experience developing enterprise web, mobile and backend systems.
 
-My background includes Angular, TypeScript, Ionic, Laravel, C#/.NET, databases and cloud technologies.
+My established technology background includes Angular, TypeScript, Ionic, Laravel, C#/.NET, SQL databases and cloud platforms.
 
-I currently work with Angular and am expanding my native iOS development skills using Swift and SwiftUI.
+I remain active in enterprise Angular development and am expanding my native iOS engineering expertise through professional work and structured Swift/SwiftUI learning.
 
-This repository documents my continued development in native mobile engineering, modern full-stack systems, software architecture and AI engineering.
+This repository documents my development toward broader full-stack, software architecture and AI engineering capabilities.
 
-## Engineering Focus
+## Engineering Development Tracks
 
 | Track | Focus | Priority |
 |---|---|---|
-| Native iOS | Swift, SwiftUI, concurrency, architecture and testing | Primary |
-| Full-Stack | Modern frontend/backend architectures, APIs and databases | Ongoing |
-| AI Engineering | Python, LLM applications, RAG, agents and evaluation | Developing |
-| Software Architecture | Design patterns, distributed systems, security and scalability | Ongoing |
+| Native iOS | Swift, SwiftUI, concurrency, native architecture and testing | Primary |
+| Full-Stack | React, Next.js, NestJS, APIs, databases and modern application patterns | Secondary |
+| AI Engineering | Python, LLM applications, RAG, agents, evaluation and security | Developing |
+| Software Architecture | Design patterns, distributed systems, scalability and reliability | Continuous |
 
-## How I Learn
+These priorities describe my development plan, not a claim of equal proficiency across all technologies.
 
-My objective is not simply to complete tutorials or generate working applications.
+## Learning Methodology
 
-I use a structured learning process:
+Every learning objective follows five stages:
 
-1. **Understand** — Study the concept and underlying engineering principles.
-2. **Implement** — Apply the concept in a practical exercise or project.
-3. **Verify** — Demonstrate understanding through independent implementation, explanation and debugging.
-4. **Review** — Obtain technical feedback and identify weaknesses.
-5. **Document** — Record decisions, evidence and lessons learned.
+1. **Understand** — Study the underlying concepts and engineering principles.
+2. **Implement** — Apply the knowledge to a practical problem.
+3. **Demonstrate** — Reproduce, explain or debug the concept independently.
+4. **Review** — Obtain feedback and identify improvements.
+5. **Document** — Record evidence, decisions and lessons learned.
 
-AI tools support my learning as tutors, reviewers and technical challengers rather than replacing independent reasoning during skill assessments.
+AI tools support learning through explanation, questioning, code review and constructive technical challenges.
 
-## Delivery vs Competence
+AI-generated implementation is not accepted as evidence of independent competence.
 
-I track implementation progress separately from demonstrated understanding.
+## Delivery and Mastery Tracking
 
-- **Delivery status:** Whether a task or feature meets its acceptance criteria.
-- **Mastery status:** Whether I can explain, implement and debug the underlying concepts independently.
-- **Review evidence:** Assessments and review records, distinguishing self-assessment, AI feedback and human peer review.
+Software delivery and engineering competence are tracked separately.
 
-Working code alone does not automatically establish mastery.
+**Delivery status** measures whether an implementation satisfies its defined acceptance criteria.
 
-## Current Learning Cycle
+**Mastery status** records independently demonstrated understanding and the available assessment evidence.
 
-**Primary focus:** Native iOS development
+Review records distinguish between self-assessment, AI-assisted review and human peer verification.
 
-Initial areas include:
+Human peer review is the preferred additional verification for major portfolio milestones, but is not required to continue day-to-day learning.
 
-- Swift language fundamentals
+## Current Focus: Native iOS
+
+My initial learning cycle focuses on:
+
+- Swift language fundamentals and type semantics
 - SwiftUI state management and observation
-- Swift concurrency and networking
-- Application architecture and dependency management
-- Persistence, testing and performance
+- Navigation, networking and structured concurrency
+- Native application architecture and dependency management
+- Persistence, testing, security and performance
 
-**Weekly learning capacity:** 6–8 hours outside regular professional work.
-
-Progress and assessment records will be linked here as they become available.
+**Learning commitment:** Six baseline hours per week, with up to two additional hours when available.
 
 ## Projects and Evidence
 
-This section will link to independent project repositories, working demonstrations, tests, architecture decisions and learning assessments as they are completed.
+This repository serves as the central index for my engineering development.
 
-Projects will be presented according to their actual implementation and verification status.
+As work is completed, it will link to:
 
-## Professional Principles
+- Independent application repositories
+- Practical implementation exercises
+- Tests and continuous integration results
+- Architecture Decision Records
+- Independent competency assessments
+- Technical reviews and learning retrospectives
 
-- Prefer understanding over memorisation.
-- Treat AI-assisted delivery and independent competence as separate outcomes.
-- Prioritise maintainability, security, reliability and testing.
-- Document architectural trade-offs rather than simply adopting patterns.
-- Make learning measurable and publicly accountable.
-- Never publish employer-owned code, confidential information or proprietary material.
+Project completion and verification statuses will be stated explicitly. Planned work will not be presented as completed work.
+
+## Engineering Principles
+
+- Prioritise understanding over memorisation.
+- Separate delivery efficiency from independent competence.
+- Evaluate technical decisions through trade-offs and evidence.
+- Design for maintainability, security, reliability and testability.
+- Document engineering decisions and their consequences.
+- Use AI to accelerate learning without delegating fundamental reasoning.
+- Respect employer confidentiality, intellectual property and contractual obligations.
 
 ---
 
-*This repository is a living record of continuous professional development. It is not a claim that every technology listed has been mastered.*
+*This repository is a living engineering development record. Professional experience, learning objectives and independently demonstrated capabilities are distinguished throughout.*
